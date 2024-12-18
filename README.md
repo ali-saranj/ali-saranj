@@ -13,24 +13,37 @@ Passionate about **Android Development**, **IoT Solutions**, and **Smart Automat
 
 ### Android Development:
 - **Languages**:  
-  - Kotlin ![95%](https://progress-bar.dev/95)  
-  - Java ![90%](https://progress-bar.dev/90)  
-- **Frameworks & Tools**:  
-  - Jetpack Compose ![93%](https://progress-bar.dev/93)  
-  - Retrofit ![90%](https://progress-bar.dev/90)  
-  - Room Database ![88%](https://progress-bar.dev/88)  
-  - Firebase ![85%](https://progress-bar.dev/85)  
-  - Mapbox ![80%](https://progress-bar.dev/80)  
-- **Architecture**:  
-  - MVVM ![92%](https://progress-bar.dev/92)  
-  - MVP ![90%](https://progress-bar.dev/90)  
+  Kotlin  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 95%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">95%</div>
+  </div>  
 
-### Backend Development:
-- **Django** ![80%](https://progress-bar.dev/80)  
+  Java  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 90%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">90%</div>
+  </div>  
+
+- **Frameworks & Tools**:  
+  Jetpack Compose  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 93%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">93%</div>
+  </div>  
+
+  Retrofit  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 90%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">90%</div>
+  </div>  
+
+  Firebase  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 85%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">85%</div>
+  </div>  
 
 ### IoT & Automation:
-- **Smart Home Solutions** ![88%](https://progress-bar.dev/88)  
-- **Industrial IoT Prototyping** ![85%](https://progress-bar.dev/85)  
+- **Smart Home Solutions**  
+  <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 88%; background-color: #4caf50; padding: 2px; color: white; text-align: center; font-size: 12px;">88%</div>
+  </div>  
 
 ---
 
